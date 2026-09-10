@@ -40,3 +40,7 @@ public function index()
 {
     return view('site');
 }
+
+## Execução da Middleware
+
+![Acesso Negado](PrintsDeExecuçãoMiddleware/acesso-negado.png)
